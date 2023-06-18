@@ -5,9 +5,9 @@
             "end": "13:20",
             "title": "3-6 лек. ФИЛОСОФИЯ с гр.171 | Виноградова Н.Л. 433",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -15,9 +15,9 @@
             "end": "16:50",
             "title": "7-10 лек. МАТЕМАТИЧЕСКИЙ АНАЛИЗ | проф. Чигиринская Н.В. 433",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -27,9 +27,9 @@
             "end": "16:50",
             "title": "ФИЗИКА | 7-10 лекция | доц. Кузнецова Н.А. Т 201",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -39,9 +39,9 @@
             "end": "11:40",
             "title": "3-4 лек. ДИСКРЕТНАЯ МАТЕМАТИКА | Авдеюк О.А. В 1202",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -49,9 +49,9 @@
             "end": "13:20",
             "title": "5-6лек. МАТЕМАТИЧЕСКИЙ АНАЛИЗ | проф. Чигиринская Н.В. В 1201",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -59,9 +59,9 @@
             "end": "15:10",
             "title": "7-8 лекция СОЦИОЛОГИЯ с гр.171 | доц.Овчар Н.А. В 1201",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -69,9 +69,9 @@
             "end": "16:50",
             "title": "9-10 лек. ЭКОНОМИКА | Заруднева А.Ю. В 1201",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -81,10 +81,10 @@
             "end": "13:20",
             "title": "МАТЕМАТИЧЕСКИЙ АНАЛИЗ | 3-6 практика | проф. Чигиринская Н.В. В 1004",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -92,10 +92,10 @@
             "end": "16:50",
             "title": "ФИЛОСОФИЯ | 7-10 практика | Виноградова Н.Л. В 1004",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -105,9 +105,9 @@
             "end": "15:10",
             "title": "МОДЕЛИРОВАНИЕ СИСТЕМ | 5-8 лекция | доц. Коробкин Д.М. В 1401",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -117,10 +117,10 @@
             "end": "15:10",
             "title": "ИНОСТРАННЫЙ ЯЗЫК | 5-8 практика | Ионкина (нем.) 432",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -128,9 +128,9 @@
             "end": "18:30",
             "title": "ОПЕРЦИОННЫЕ СИСТЕМЫ | 9-12 лекция | Приходькова В 1202",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -140,10 +140,10 @@
             "end": "11:40",
             "title": "ИНОСТРАННЫЙ ЯЗЫК | 1-4 практика | Йованович ( англ.) 432",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -151,11 +151,11 @@
             "end": "15:10",
             "title": "ОПЕРЦИОННЫЕ СИСТЕМЫ | 5-8 лаборат. | Приходькова В 1202",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -163,7 +163,7 @@
         {
             "title": "ФИЛОСОФИЯ | 10:10 ЭКЗАМЕН | Виноградова Н.Л. В 1004",
             "type": [
-                null
+                "EXAM"
             ]
         },
         {
@@ -171,10 +171,10 @@
             "end": "16:50",
             "title": "ДИСКРЕТНАЯ МАТЕМАТИКА | 7-10 практика | Авдеюк О.А. В 1202",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -184,18 +184,18 @@
             "end": "11:40",
             "title": "ВЫЧИСЛИТЕЛЬНАЯ МАТЕМАТИКА | 1-4 лаборат. | 5-6 лекция | доц. Бочкин А.М. В 802",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
             "title": "ИНОСТРАННЫЙ ЯЗЫК | 13:40 ЗАЧЕТ | Ионкина (нем.) 433а",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -205,9 +205,9 @@
             "end": "13:20",
             "title": "АРХИТЕКТУРВ ВТ | 3-6 лекция | Жариков В 1303",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -215,10 +215,10 @@
             "end": "16:50",
             "title": "ЭКОНОМИКА | 7-10 практика | 17:00 ЭКЗАМЕН | Заруднева А.Ю. В 601",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -228,11 +228,11 @@
             "end": "13:20",
             "title": "ОСНОВЫ ПРОГРАММИРОВАНИЯ | 3-6 лаборат. | Приходькова В 1202",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -240,11 +240,11 @@
             "end": "16:50",
             "title": "МОДЕЛИРОВАНИЕ СИСТЕМ | 7-10 лаборат. | доц. Коробкин Д.М. В 1402-1",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -254,10 +254,10 @@
             "end": "13:20",
             "title": "СОЦИОЛОГИЯ | 3-6 практика | 13:40 ЗАЧЕТ | Овчар В 802",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -265,8 +265,8 @@
         {
             "title": "ИНОСТРАННЫЙ ЯЗЫК | 8:30 ЗАЧЕТ | Йованович ( англ.) 432",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         },
         {
@@ -274,11 +274,11 @@
             "end": "15:10",
             "title": "АРХИТЕКТУРВ ВТ | 5-8 лаборат | Жариков В 1302а",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -288,11 +288,11 @@
             "end": "16:50",
             "title": "ОПЕРЦИОННЫЕ СИСТЕМЫ | 7-10 лаборат. | 17:00 ЗАЧЕТ | Приходькова В 1204",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -300,14 +300,14 @@
         {
             "title": "ВЫЧИСЛИТЕЛЬНАЯ МАТЕМАТИКА | 10:10 ЗАЧЕТ | доц. Бочкин А.М. В 1102",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         },
         {
             "title": "ДИСКРЕТНАЯ МАТЕМАТИКА | 13:40 ЭКЗАМЕН | Авдеюк О.А. В 1202",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -317,11 +317,11 @@
             "end": "13:20",
             "title": "ОСНОВЫ ПРОГРАММИРОВАНИЯ | 5-6 лаборат. | 13:40 ЭКЗАМЕН | Приходькова В 1202",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -331,11 +331,11 @@
             "end": "13:20",
             "title": "АРХИТЕКТУРВ ВТ | 3-6 лаборат | 13:40 ЭКЗАМЕН | Жариков В 1301",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -345,17 +345,17 @@
             "end": "13:20",
             "title": "МОДЕЛИРОВАНИЕ СИСТЕМ | 3-6 лаборат. | 13:40 ЭКЗАМЕН | доц. Коробкин Д.М. В 1402-1",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
             "title": "ЭКОНОМИКА | 13:40 ЭКЗАМЕН | Заруднева А.Ю. В 601",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -365,10 +365,10 @@
             "end": "11:40",
             "title": "МАТЕМАТИЧЕСКИЙ АНАЛИЗ | 3-4 практика | 11:50 ЭКЗАМЕН | проф. Чигиринская Н.В. В 1101",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -378,11 +378,11 @@
             "end": "11:40",
             "title": "ФИЗИКА | 1-4 лаборат. Т 108 | 11:50 ЭКЗАМЕН Т 202 | доц. Кузнецова",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ]

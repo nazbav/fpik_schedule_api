@@ -11,11 +11,11 @@
             "end": "16:50",
             "title": "315 | 7-10 лаб.ОБОРУД.И АВТ.ТПИП | Поступаева Б 305",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -25,9 +25,9 @@
             "end": "15:10",
             "title": "5-8 лекц.ОБОРУД.И АВТ.ТПИП | Поступаева Б 310",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -41,11 +41,11 @@
             "end": "13:20",
             "title": "3-6 лаб. ЭЛЕКТРОТЕХНИКА | Авдеюк Д.Н. А 407б",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -65,11 +65,11 @@
             "end": "13:20",
             "title": "3-6 лаб. МОДЕЛИРОВАНИЕ | Кухтик Б-309",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -77,11 +77,11 @@
             "end": "16:50",
             "title": "7-10 лаб. ОСНОВЫ ТЕХ.ИЗМЕРЕН. | Стегачев Б-310",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -91,11 +91,11 @@
             "end": "13:20",
             "title": "3-6 лаб.ОБОРУД.И АВТ.ТПИП | ЗАЧЕТ | Поступаева Б 305",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -103,9 +103,9 @@
         {
             "title": "3-6 пр. ЭЛЕКТРОТЕХНИКА | Авдеюк Д.Н. А 407",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -115,10 +115,10 @@
             "end": "15:10",
             "title": "7-8 прак. ИНОСТР. ЯЗЫК | ЗАЧЕТ | Тихаева 422",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -126,10 +126,10 @@
             "end": "16:50",
             "title": "7-10 прак. ОСНОВЫ ТЕХ.ИЗМЕРЕН. | Стегачев 406",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -139,11 +139,11 @@
             "end": "13:20",
             "title": "3-6 лаб. ПРОГРАМ.ОСН. АЛГОРИТМ. | Федорова Б 305",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -159,10 +159,10 @@
             "end": "11:40",
             "title": "3-4 прак. ИНОСТР. ЯЗЫК | ЗАЧЕТ | Высоцкая А 604",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -170,11 +170,11 @@
             "end": "16:50",
             "title": "7-10 лаб. ПРИКЛАД. МЕХАН. | Савкин 118",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -182,7 +182,7 @@
         {
             "title": "ПРОГРАМ.И ОСН.АЛГОРТМ. | 3-6 пр | ЭКЗАМЕН | Федорова Б-310",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -192,11 +192,11 @@
             "end": "13:20",
             "title": "МАТЕРИАЛОВЕД. | 3-6 лаб. | ЗАЧЕТ | Шморгун 219",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -206,11 +206,11 @@
             "end": "11:40",
             "title": "МОДЕЛИРОВАНИЕ | 1-4 лаб. | 11:50 ЭКЗАМЕН | Кухтик Б-305",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -218,8 +218,8 @@
         {
             "title": "ПРИКЛ. МЕХ. | 10:10 ЗАЧЕТ | Савкин 118",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -227,17 +227,17 @@
         {
             "title": "УЧЕБНАЯ ПРАКТИКА | 9:00 ЗАЧЕТ | Макаров Б 308",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
             "title": "ОСНОВЫ ТЕХ.ИЗМЕР. | 15:20 ЗАЧЕТ | Стегачев 312",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -245,9 +245,9 @@
         {
             "title": "ЭЛЕКТРОТЕХНИКА | 11:50 ЭКЗАМЕН | Авдеюк Д.Н. А 407б",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -255,8 +255,8 @@
         {
             "title": "ТЕХНОГОГИИ ЦП | 11:50 ЗАЧЕТ | Макаров Б-105",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -264,8 +264,8 @@
         {
             "title": "3-6 пр. МАТЕМАТИКА (СПЕЦГЛ.) | ЗАЧЕТ | Шведов 400",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         },
         {

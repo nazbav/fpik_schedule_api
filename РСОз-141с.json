@@ -5,9 +5,9 @@
             "end": "13:20",
             "title": "3-6 лек. ДИЗАЙН | Туманова ЛК 311",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -15,9 +15,9 @@
             "end": "16:50",
             "title": "7-10 лек. МЕНЕДЖМЕНТ | доц. Борискина Т.Б. В 502",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -27,9 +27,9 @@
             "end": "15:10",
             "title": "5-8 лекция СОЦИОЛОГИЯ | доц. Абраменко Е.В. В 208",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -37,9 +37,9 @@
             "end": "18:30",
             "title": "9-12 лек. СОЦ.ОТВЕТ.БИЗНЕСА | Акимова В 208",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -49,9 +49,9 @@
             "end": "13:20",
             "title": "3-6 лек. ФИЛОСОФИЯ | проф.Виноградова Н.Л. В 801",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -59,9 +59,9 @@
             "end": "16:50",
             "title": "7-10 лек. КОММЕРЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ | Дубова Ю.И. В 601",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -71,10 +71,10 @@
             "end": "16:50",
             "title": "7-10 практ. ИН. ЯЗЫК | Страмной (фр.) А 601",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -88,10 +88,10 @@
             "end": "16:50",
             "title": "СОЦ.ОТВЕТ.БИЗНЕСА | 7-10 практ. | 17:00 ЗАЧЕТ | Акимова В 604",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -101,10 +101,10 @@
             "end": "13:20",
             "title": "ФИЛОСОФИЯ | 3-6 практика | Виноградова Н.Л. В 806",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -112,9 +112,9 @@
             "end": "15:10",
             "title": "7-8 лек. МАТЕМАТИКА | доц. Асанова Н. В. В 209",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -124,10 +124,10 @@
             "end": "13:20",
             "title": "3-6 практ. ДИЗАЙН | Туманова В 208",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -135,9 +135,9 @@
             "end": "16:50",
             "title": "7-10 лек. МАТЕМАТИКА | доц. Асанова Н. В. В 1201",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -147,9 +147,9 @@
             "end": "13:20",
             "title": "3-6 лек. ЭКОНОМ.ТЕОРИЯ | Дубова Ю.И. В 602",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -157,9 +157,9 @@
             "end": "15:10",
             "title": "7-8 лек. МЕНЕДЖМЕНТ | доц. Борискина Т.Б. В 801",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -169,10 +169,10 @@
             "end": "13:20",
             "title": "КОММЕРЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ | 3-6 практика | 13:40 ЗАЧЕТ | Дубова Ю.И. В 604",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -180,9 +180,9 @@
             "end": "18:30",
             "title": "9-12 лек. МАТЕМАТИКА | доц. Асанова Н. В. В 1102",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -190,7 +190,7 @@
         {
             "title": "ФИЛОСОФИЯ | 10:10 ЭКЗАМЕН | проф.Виноградова Н.Л. В 802",
             "type": [
-                null
+                "EXAM"
             ]
         },
         {
@@ -198,10 +198,10 @@
             "end": "16:50",
             "title": "СОЦИОЛОГИЯ | 7-10 практика | доц. Абраменко Е.В. В 1002",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -211,10 +211,10 @@
             "end": "13:20",
             "title": "МЕНЕДЖМЕНТ | 3-6 практика | 13:40 ЭКЗАМЕН | доц. Борискина Т.Б. В 704",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -222,7 +222,7 @@
         {
             "title": "ДИЗАЙН | 11:50 ЭКЗАМЕН | Туманова В 604",
             "type": [
-                null
+                "EXAM"
             ]
         },
         {
@@ -230,10 +230,10 @@
             "end": "18:30",
             "title": "МАТЕМАТИКА | 9-12 практика | доц. Асанова Н. В. В 1005",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -243,10 +243,10 @@
             "end": "10:00",
             "title": "ИН. ЯЗЫК | 1-2практика | 10:10 ЗАЧЕТ | Страмной (фр.) Б 600",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -260,16 +260,16 @@
             "end": "13:20",
             "title": "МАТЕМАТИКА | 3-6практика | доц. Асанова Н. В. В 801",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
             "title": "СОЦИОЛОГИЯ | 13:40 ЭКЗАМЕН | доц. Абраменко Е.В. В 803",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -277,10 +277,10 @@
         {
             "title": "МАТЕМАТИКА | 3- 4 практика | 11:50 ЭКЗАМЕН | доц. Асанова Н. В. Т 204",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -290,10 +290,10 @@
             "end": "13:20",
             "title": "ЭКОНОМИЧЕСКАЯ ТЕОРИЯ | 3-6 практика | 13:40 ЭКЗАМЕН | Дубова В 601",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ]

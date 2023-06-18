@@ -5,9 +5,9 @@
             "end": "13:20",
             "title": "3-6 лекц. С О П Р О М А Т | проф. Савкин А.Н. 124",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -15,9 +15,9 @@
             "end": "16:50",
             "title": "7-10 лекц. МАТЕРИАЛОВЕДЕНИЕ | с гр.211с, 231с, 232с, 233с | проф. Шморгун В.Г. 315",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -27,9 +27,9 @@
             "end": "13:20",
             "title": "3-6 лек. МЕТРОЛОГИЯ | ст.преп.Кормилицин С.И. В 801",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -37,9 +37,9 @@
             "end": "16:50",
             "title": "7-10 лекц. ФИЗ. ОСН. ИЗМЕРЕНИЙ | ст.преп.Аршинов А.В. общ.504",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -49,10 +49,10 @@
             "end": "11:40",
             "title": "1-4 прак. ОСНОВЫ ПРОЕКТ.УПРАВ. | доц. Полянчикова М.Ю. Б 210",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -60,11 +60,11 @@
             "end": "15:10",
             "title": "5-8 лаб. С О П Р О М А Т | Савкин 118",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -74,10 +74,10 @@
             "end": "13:20",
             "title": "3-6 прак. МАТЕМАТИКА (спец.главаы) | Шведов 121",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -85,9 +85,9 @@
             "end": "16:50",
             "title": "7-10 лек. ЭКОНОМИКА | Дорждеева В.А. 121",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -97,10 +97,10 @@
             "end": "13:20",
             "title": "3-6 прак. С О П Р О М А Т | Савкин 118",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -118,11 +118,11 @@
             "end": "13:20",
             "title": "ФИЗИЧЕСКИЕ ОСН.ИЗМЕРЕНИЙ | 3-6 лаб. | Аршинов А.В. общ.504",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -130,11 +130,11 @@
             "end": "16:50",
             "title": "МАТЕРИАЛОВЕД. | 7-10 лаб. | Шморгун 225",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -144,18 +144,18 @@
             "end": "13:20",
             "title": "МЕТРОЛОГИЯ | 3-6 лаб. | Кормилицин С.И. Б 209",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
             "title": "МАТЕМАТИКА (спец главы) | 13:40 ЗАЧЕТ | Шведов 400",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -163,7 +163,7 @@
         {
             "title": "Э К О Н О М И К А | 3-6 пр. | ЭКЗАМЕН | Дорждеева В.А. В 602",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -173,10 +173,10 @@
             "end": "15:10",
             "title": "7-8 прак. ИНОСТР. ЯЗЫК | ЗАЧЕТ | Высоцкая 410б",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -186,8 +186,8 @@
         {
             "title": "С О П Р О М А Т | 13:40 ЗАЧЕТ | проф.Савкин А.Н. 118",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -195,8 +195,8 @@
         {
             "title": "ОСНОВЫ ПРОЕКТНОГО УПРАВ. | 9:00 ЗАЧЕТ | доц. Полянчикова М.Ю. Б 207",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -206,11 +206,11 @@
             "end": "13:20",
             "title": "МЕТРОЛОГИЯ | 3-6 лаб. | 13:40 ЗАЧЕТ | ст.преп.Кормилицин С.И. Б 209",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -218,8 +218,8 @@
         {
             "title": "МАТЕРИАЛОВЕД. | 10:10 ЗАЧЕТ | Шморгун 219",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -227,10 +227,10 @@
         {
             "title": "УЧЕБНАЯ ПРАКТИКА | 11:50 ЗАЧЕТ | Курсин Б 207",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -238,8 +238,8 @@
         {
             "title": "ФИЗИЧЕСКИЕ ОСН.ИЗМ. | 3-6 пр. | 13:40 ЗАЧЕТ | Аршинов А.В. общ.504",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ]

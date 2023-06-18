@@ -5,9 +5,9 @@
             "end": "15:10",
             "title": "3-8 лекц. НАКОПИТЕЛИ ЭНЕРГИИ | проф. Нефедьев А.И. А-407",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -15,9 +15,9 @@
             "end": "18:30",
             "title": "9-12 лекц. ЭКОЛОГИЯ | проф. Кудашев С.В. Б-402",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -27,9 +27,9 @@
             "end": "13:20",
             "title": "3-6 лекц. ЭЛЕКТР. МАШИНЫ | пр. Дикарев П.В. А-405",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -37,9 +37,9 @@
             "end": "16:50",
             "title": "7-10 лекц. ТЕХНИЧ. МЕХАНИКА | доц. Шандыбина И.М. А-405",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -49,9 +49,9 @@
             "end": "16:50",
             "title": "7-10 лекц. Т О Э | доц. Кузнецова Н.С.. А-404",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -59,9 +59,9 @@
             "end": "13:20",
             "title": "3-6 лек. ЭЛ. И КОНСТР. МАТЕРИАЛ. | доц.Елфимова О.И. А-404",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -75,9 +75,9 @@
             "end": "16:50",
             "title": "7-10 лек. ЭЛ. И КОНСТР. МАТ. | доц.Елфимова О.И. А-404",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -97,11 +97,11 @@
             "end": "15:10",
             "title": "5-8 лаб. ЭКОЛОГИЯ | 15:20 ЗАЧЕТ | Кудашев С.В. Б-402",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -115,11 +115,11 @@
             "end": "16:50",
             "title": "7-10 лаб. Т О Э | Кузнецова Н.С. А-405",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -129,9 +129,9 @@
             "end": "13:20",
             "title": "3-6 лек. ТЕХНИКА ВЫСОК. НАПРЯЖ. | ст.пр. Коновалова Л.А. А-404",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -143,7 +143,7 @@
         {
             "title": "3-10 ЭЛ. И КОНСТР. МАТЕРИАЛ. | ЭКЗАМЕН | Елфимова О.И. А-405",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -153,10 +153,10 @@
             "end": "15:10",
             "title": "7-8 прак. ИНОСТР. ЯЗЫК | ЗАЧЕТ | Высоцкая 410б",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -168,11 +168,11 @@
             "end": "13:20",
             "title": "3-6 лаб. ЭЛЕКТР. МАШИНЫ | Дикарев П.В. А-404",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -180,9 +180,9 @@
         {
             "title": "7-10 пр. ЭЛЕКТР. МАШИНЫ | Дикарев П.В. А-404",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -190,7 +190,7 @@
         {
             "title": "3-8 пр. НАКОПИТЕЛИ ЭНЕРГИИ | 15:20 ЭКЗАМЕН | Нефедьев А.И. А-404",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -200,11 +200,11 @@
             "end": "16:50",
             "title": "7-10 лаб. ТЕХНИЧ. МЕХАНИКА | Шандыбина А-502",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -214,9 +214,9 @@
             "end": "16:50",
             "title": "5-10 лекц. ЭЛЕКТР. ЧАСТЬ | ЭЛЕКТРОСТАНЦИЙ И ПОДСТАНЦИЙ | доц. Кузнецова Н.С. А-405",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -224,11 +224,11 @@
             "end": "15:10",
             "title": "3-8 лаб. ТЕХНИКА ВЫСОК. НАПРЯЖ. | 15:20 ЗАЧЕТ | Коновалова Л.А. А-404",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -236,8 +236,8 @@
         {
             "title": "3-8 ТЕХНИЧ. МЕХАНИКА | ЗАЧЕТ | Шандыбина И.М. А-502",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -245,9 +245,9 @@
         {
             "title": "3-8 пр. ЭЛЕКТР. ЧАСТЬ | ЭЛЕКТРОСТАНЦИЙ И ПОДСТАНЦИЙ | Кузнецова Н.С. А-405",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -255,9 +255,9 @@
         {
             "title": "3-10 ЭЛЕКТР. МАШИНЫ | ЭКЗАМЕН | Дикарев П.В. А-407б",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -265,10 +265,10 @@
         {
             "title": "УЧЕБНАЯ ПРАКТИКА | 9:00 ЗАЧЕТ | Елфимова А 407",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -276,9 +276,9 @@
         {
             "title": "3-10 ЭЛЕКТР. ЧАСТЬ | ЭЛЕКТРОСТАНЦИЙ И ПОДСТАНЦ. | ЭКЗАМЕН | доц. Кузнецова Н.С. А-405",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -286,7 +286,7 @@
         {
             "title": "3-10 Т О Э | ЭКЗАМЕН | доц.Кузнецова Н.С. А-405",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ]

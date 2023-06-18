@@ -5,9 +5,9 @@
             "end": "15:10",
             "title": "5-8 лекц. МАШИННОЕ ОБУЧЕНИЕ | И АНАЛИЗ ДАННЫХ | ст.пр. Кравченя П.Д. В-1002",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -15,9 +15,9 @@
             "end": "13:20",
             "title": "3-6 лек. ЭЛЕКТРОТЕХ. И ЭЛЕКТРОН. | проф. Нефедьев А.И. 416",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -25,9 +25,9 @@
             "end": "16:50",
             "title": "7-10 лекц. МОБ. И ВСТРАИВАЕМЫЕ | ОПЕРАЦ. СИСТЕМЫ | Жариков В-1302а",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -37,11 +37,11 @@
             "end": "13:20",
             "title": "3-6 лаб. МАШИННОЕ ОБУЧЕНИЕ | И АНАЛИЗ ДАННЫХ | Кравченя В-1401.1",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -49,9 +49,9 @@
             "end": "16:50",
             "title": "7-10 лекц. КОМПЬЮТЕРНАЯ ГРАФ. | ст.пр. Драгунов В-1201",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -61,11 +61,11 @@
             "end": "13:20",
             "title": "3-6 лаб. КОМПЬЮТЕРНАЯ ГРАФ. | Драгунов В-1402.3",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -85,9 +85,9 @@
             "end": "13:20",
             "title": "5-6 лек.,7-10 пр. | К И Б Е Р П Р А В О | доц. Леонтьев А.Н. В-801",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -95,8 +95,8 @@
         {
             "title": "3-6 К И Б Е Р П Р А В О | ЗАЧЕТ | доц. Леонтьев А.Н. В-1005",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         },
         {
@@ -104,11 +104,11 @@
             "end": "16:50",
             "title": "7-10 лаб. МОБ. И ВСТРАИВАЕМЫЕ | ОПЕРАЦ. СИСТЕМЫ | Жариков",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -118,11 +118,11 @@
             "end": "16:50",
             "title": "7-10 лаб. МОБ. И ВСТРАИВАЕМЫЕ | ОПЕРАЦ. СИСТЕМЫ | Жариков В-1302а",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -132,9 +132,9 @@
             "end": "13:20",
             "title": "5-6 лекц. СИСТЕМЫ УПРАВЛЕНИЯ | БАЗАМИ ДАННЫХ | проф. Кравец А.Г. В-1401",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -146,7 +146,7 @@
         {
             "title": "3-8 МОБ. И ВСТРАИВАЕМЫЕ | ОПЕРАЦ. СИСТЕМЫ | ЭКЗАМЕН | Жариков В-1302а",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -156,11 +156,11 @@
             "end": "13:20",
             "title": "3-6 лаб. СИСТЕМЫ УПРАВЛЕНИЯ | БАЗАМИ ДАННЫХ | Кравец В-1405",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -168,11 +168,11 @@
             "end": "16:50",
             "title": "7-10 лаб. МАШИННОЕ ОБУЧЕНИЕ | И АНАЛИЗ ДАННЫХ | Кравченя В-1402-3",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -182,8 +182,8 @@
             "end": "16:50",
             "title": "3-6 пр. СИСТЕМЫ УПРАВЛЕНИЯ | БАЗАМИ ДАННЫХ | 7-10 ЗАЧЕТ | Кравец В-1405",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -191,8 +191,8 @@
         {
             "title": "1-4 ИНОСТР. ЯЗЫК | ЗАЧЕТ | Йованович А 605",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -202,11 +202,11 @@
             "end": "15:10",
             "title": "5-8 лаб. ЭЛЕКТРОТЕХНИКА | Нефедьев А-405",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -216,11 +216,11 @@
             "end": "13:20",
             "title": "3-6 лаб. ЭЛЕКТРОТЕХНИКА | Нефедьев А-407б",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -228,9 +228,9 @@
         {
             "title": "1-6 ЭЛЕКТРОТЕХ. И ЭЛЕКТРОНИКА | ЭКЗАМЕН | Нефедьев А-404",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -238,7 +238,7 @@
         {
             "title": "3-8 МАШИННОЕ ОБУЧЕНИЕ | И АНАЛИЗ ДАННЫХ | ЭКЗАМЕН | Кравченя В-1402-3",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -246,8 +246,8 @@
         {
             "title": "1-4 ИНОСТР. ЯЗЫК | ЗАЧЕТ | Тихаева 400",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -257,11 +257,11 @@
             "end": "16:50",
             "title": "7-10 лаб. КОМПЬЮТЕРНАЯ ГРАФ. | Драгунов В-1402.1",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -269,7 +269,7 @@
         {
             "title": "3-6 КОМПЬЮТЕРНАЯ ГРАФ. | ЭКЗАМЕН | Драгунов В-1401",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -277,10 +277,10 @@
         {
             "title": "УЧЕБНАЯ ПРАКТИКА | 10:10 ЗАЧЕТ | Шкурина В 1402-1",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ]

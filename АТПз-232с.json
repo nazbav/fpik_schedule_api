@@ -35,11 +35,11 @@
             "end": "13:20",
             "title": "3-6 лаб. ПРОГРАМ.ОСН. АЛГОРИТМ. | Федорова, Поступаева Б 305",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -47,11 +47,11 @@
             "end": "16:50",
             "title": "7-10 лаб. МАТЕРИАЛОВЕД. | Шморгун 225",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -61,11 +61,11 @@
             "end": "16:50",
             "title": "7-10 лаб. ОБОРУД.АП | Сидякин Ю.И. Т-004",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -75,11 +75,11 @@
             "end": "13:20",
             "title": "3-6 лаб. ПРИКЛАД. МЕХАН. | Савкин 118",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -87,10 +87,10 @@
             "end": "15:10",
             "title": "7-8 прак. ИНОСТР. ЯЗЫК | ЗАЧЕТ | Тихаева 422",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -100,8 +100,8 @@
         {
             "title": "7-10 МАТЕРИАЛОВЕД. ЗАЧЕТ | Шморгун 219",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -109,8 +109,8 @@
         {
             "title": "3-6 пр. МАТЕМАТИКА (СПЕЦГЛ.) | 13:40 ЗАЧЕТ | Шведов 433",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -120,11 +120,11 @@
             "end": "11:40",
             "title": "1-4 лаб. ОСНОВЫ ТЕХ.ИЗМЕРЕН. | Стегачев Б-310",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -134,10 +134,10 @@
             "end": "11:40",
             "title": "3-4 прак. ИНОСТР. ЯЗЫК | ЗАЧЕТ | Высоцкая А 604",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -151,11 +151,11 @@
             "end": "16:50",
             "title": "7-10 лаб. ТАУ | Харькин О.С., Дроботов А.В. Б-309",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -163,11 +163,11 @@
             "end": "11:40",
             "title": "1-4 лаб. МОДЕЛ.ПРОЦ.И СИСТЕМ | Кухтик Б-305",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -175,11 +175,11 @@
             "end": "15:10",
             "title": "5-8 лаб. ЭЛЕКТРОТЕХНИКА | Авдеюк Д.Н. А 405",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -187,7 +187,7 @@
         {
             "title": "ПРОГРАМ.И ОСН.АЛГОРТМ. | 1-4 пр. | 11:50 ЭКЗАМЕН | Федорова, Поступаева Б-105",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -197,18 +197,18 @@
             "end": "11:40",
             "title": "1-4 лаб. ГИДРОМЕХАНИКА | Приходьков 002",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
             "title": "5-8 ПРИКЛ. МЕХ. | ЗАЧЕТ | Савкин 118",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -216,8 +216,8 @@
         {
             "title": "5-8 ОБОРУДОВАНИЕ АП | ЗАЧЕТ | проф.Сидякин Ю.И. Т 004",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -225,8 +225,8 @@
         {
             "title": "3-6 ГИДРОМЕХАНИКА | ЗАЧЕТ | Приходьков Т 201",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -234,17 +234,17 @@
         {
             "title": "УЧЕБНАЯ ПРАКТИКА | 9:00 ЗАЧЕТ | Тихонова Ж.С. Б 207",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
             "title": "ОСНОВЫ ТЕХ.ИЗМЕР. | 11:50 ЗАЧЕТ | Стегачев 312",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -252,7 +252,7 @@
         {
             "title": "МОДЕЛИРОВАНИЕ | 9:00 ЭКЗАМЕН | Кухтик Б-105",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -262,10 +262,10 @@
             "end": "11:40",
             "title": "1-4 прак. ЭЛЕКТРОТЕХНИКА | 11:50 ЭКЗАМЕН | Авдеюк Д.Н. А 405",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -273,8 +273,8 @@
         {
             "title": "ТАУ | 11:50 ЗАЧЕТ | доц.Харькин О.С., Дроботов А.В. Б-105",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ]

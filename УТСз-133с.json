@@ -5,9 +5,9 @@
             "end": "13:20",
             "title": "3-6 лек. ДЕЛОВОЕ ОБЩЕНИЕ В ПРОФ. ДЕЯТЕЛЬНОСТИ | Васильева В.Д. 315",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -15,9 +15,9 @@
             "end": "16:50",
             "title": "ФИЛОСОФИЯ | 7-10 лекция | Казанова Н.В. 315",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -27,9 +27,9 @@
             "end": "16:50",
             "title": "7-10 лек. ФИЗИКА | доц.Васильева Г.Ю. 315",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -37,9 +37,9 @@
             "end": "20:00",
             "title": "11-14 лек. СОЦИОЛОГИЯ | доц.Ситникова 315",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -49,9 +49,9 @@
             "end": "11:40",
             "title": "1-4 лек. ТЕХНОЛОГИЧЕСКИЕ ПРОЦЕССЫ МАШИНОСТРОЕНИЯ | доц.Полянчикова М.Ю. Б 610",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -59,9 +59,9 @@
             "end": "15:10",
             "title": "МАТЕМАТИКА | 5-8 лекция | ст.пр. Клячина Н.В. Б 610",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -71,9 +71,9 @@
             "end": "11:40",
             "title": "1-4 лек. ВВЕДЕНИЕ В СПЕЦИАЛЬНОСТЬ | доц.Тихонова Ж.С. Б 610",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -81,9 +81,9 @@
             "end": "13:20",
             "title": "МАТЕМАТИКА | 5-6 лекция | ст.пр. Клячина Н.В. Б 610",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -93,10 +93,10 @@
             "end": "11:40",
             "title": "1-4 прак. ТЕХНОЛОГИЧЕСКИЕ ПРОЦЕССЫ МАШИНОСТРОЕНИЯ | доц.Полянчикова М.Ю. Б 210",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -104,10 +104,10 @@
             "end": "15:10",
             "title": "ДЕЛОВОЕ ОБЩЕНИЕ В ПРОФ. ДЕЯТЕЛЬНОСТИ | 5-8 практика | Васильева В.Д. В 801",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -117,10 +117,10 @@
             "end": "15:10",
             "title": "5-8 практ. ИН. ЯЗЫК | Ионкина (нем.) 432",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -128,10 +128,10 @@
             "end": "18:30",
             "title": "КОМП. ГРАФИКА | 9-12 практика | Мишустина 412а",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -141,9 +141,9 @@
             "end": "16:50",
             "title": "ВЫЧИСЛИТЕЛЬНЫЕ МАШИНЫ, СИСТЕМЫ И СЕТИ | 7-10 лекция | доц.Кухтик М.П. 315",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -151,9 +151,9 @@
             "end": "20:00",
             "title": "11-14 лек. МАТЕМАТИКА | ст.пр. Клячина Н.В. 315",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -163,10 +163,10 @@
             "end": "13:20",
             "title": "ФИЛОСОФИЯ | 3-6 практика | Казанова Н.В. В 806",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -174,9 +174,9 @@
             "end": "16:50",
             "title": "КОМП. ГРАФИКА с гр. 101, 133 | 7-10 лек. | ст.пр. Мишустина С.Н. 433",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         }
     ],
@@ -186,9 +186,9 @@
             "end": "13:20",
             "title": "3-6 лек. ТЕОРЕТ.МЕХАНИКА | Шаронов Н. Г. 315",
             "type": [
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE"
             ]
         },
         {
@@ -196,10 +196,10 @@
             "end": "15:10",
             "title": "ИН. ЯЗЫК | 7-8 практика | 13:40 ЗАЧЕТ | Ионкина (нем.) 433а",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -209,10 +209,10 @@
             "end": "18:30",
             "title": "МАТЕМАТИКА | 7-12 практика | Клячина 314",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
@@ -220,18 +220,18 @@
             "end": "11:40",
             "title": "1-4 лаб. ВВЕДЕНИЕ В СПЕЦИАЛЬНОСТЬ | доц.Тихонова Ж.С. Б 205б",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
             "title": "11:50 ЗАЧЕТ | доц.Тихонова Ж.С. Б 205б",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         },
         {
@@ -239,11 +239,11 @@
             "end": "16:50",
             "title": "ВЫЧИСЛИТЕЛЬНЫЕ МАШИНЫ, СИСТЕМЫ И СЕТИ | 7-10 лаб. | доц.Кухтик М.П. Б 308",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -253,11 +253,11 @@
             "end": "13:20",
             "title": "ФИЗИКА | 3-6 лаб. | 13:40 ЭКЗАМЕН | Васильева Г.Ю. Т 108",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         }
     ],
@@ -267,17 +267,17 @@
             "end": "11:40",
             "title": "КОМП. ГРАФИКА | 3-4 практика | Мишустина 412а",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         },
         {
             "title": "КОМП. ГРАФИКА | 11:50 ЗАЧЕТ | Мишустина 412а",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -287,11 +287,11 @@
             "end": "13:20",
             "title": "ВЫЧИСЛИТЕЛЬНЫЕ МАШИНЫ, СИСТЕМЫ И СЕТИ | 5-6 лаб. | доц.Кухтик М.П. Б 105",
             "type": [
-                null,
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE",
+                "LABORATORY"
             ]
         },
         {
@@ -299,10 +299,10 @@
             "end": "16:50",
             "title": "СОЦИОЛОГИЯ | 7-10 практика | Ситникова В 803",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -312,10 +312,10 @@
             "end": "11:40",
             "title": "МАТЕМАТИКА | 1-4 практика | 11:50 ЭКЗАМЕН | Клячина 312",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -323,13 +323,13 @@
         {
             "title": "ФИЛОСОФИЯ | 10:10 ЭКЗАМЕН | Казанова Н.В. В 806",
             "type": [
-                null
+                "EXAM"
             ]
         },
         {
             "title": "СОЦИОЛОГИЯ | 13:40 ЭКЗАМЕН | Ситникова В 803",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -337,14 +337,14 @@
         {
             "title": "ДЕЛОВОЕ ОБЩЕНИЕ В ПРОФ. ДЕЯТЕЛЬНОСТИ | 8:30 ЗАЧЕТ | Васильева В.Д. В 802",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         },
         {
             "title": "ВЫЧИСЛИТЕЛЬНЫЕ МАШИНЫ, СИСТЕМЫ И СЕТИ | 11:50 ЭКЗАМЕН | доц.Кухтик М.П. Б 310",
             "type": [
-                null
+                "EXAM"
             ]
         }
     ],
@@ -354,10 +354,10 @@
             "end": "13:20",
             "title": "ТЕОРЕТ.МЕХАНИКА | 3-6 практика | 13:40 ЗАЧЕТ | Шаронов Н. Г. 300б",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ],
@@ -365,8 +365,8 @@
         {
             "title": "ТЕХНОЛОГИЧЕСКИЕ ПРОЦЕССЫ МАШИНОСТРОЕНИЯ | 9:00 ЗАЧЕТ | доц.Полянчикова М.Ю. Б 210",
             "type": [
-                null,
-                null
+                "EXAM",
+                "CREDIT"
             ]
         }
     ],
@@ -374,10 +374,10 @@
         {
             "title": "ИН. ЯЗЫК | 3 - 4 практика | 11:50 ЗАЧЕТ | Высоцкая (англ.) 422",
             "type": [
-                null,
-                null,
-                null,
-                null
+                "EXAM",
+                "CREDIT",
+                "LECTURE",
+                "PRACTICE"
             ]
         }
     ]
