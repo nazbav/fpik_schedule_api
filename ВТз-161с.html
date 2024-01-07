@@ -442,3 +442,87 @@ document.addEventListener("DOMContentLoaded", function (event) {
 });
 
 </script>
+
+
+
+
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+  <script type="text/javascript">
+
+  
+  // Функция для разбора даты и времени начала задачи
+function parseDate(dateString, timeString) {
+  const [day, month] = dateString.split('.'); // Разбиваем строку даты на день и месяц
+  const [startHour, startMinute] = timeString.split(':'); // Разбиваем строку времени начала на часы и минуты
+  return new Date(new Date().getFullYear(), parseInt(month) - 1, parseInt(day), parseInt(startHour), parseInt(startMinute));
+}
+
+function calculateDuration(startDate, endDate) {
+  const start = startDate.getTime(); // Получаем время в миллисекундах для начальной даты
+  const end = endDate.getTime(); // Получаем время в миллисекундах для конечной даты
+  const durationInMs = end - start; // Вычисляем разницу между датами в миллисекундах
+  const durationInMinutes = durationInMs / (1000 * 60); // Переводим продолжительность из миллисекунд в минуты
+  return durationInMinutes; // Возвращаем продолжительность в минутах
+}
+
+
+function toMilliseconds(minutes) {
+        return minutes * 60 * 1000;
+      }
+
+function getRandomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+  
+    google.charts.load('current', {'packages':['gantt'], 'language': 'ru'});
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+      var data = new google.visualization.DataTable();
+    
+      data.addColumn('string', 'Task ID');
+      data.addColumn('string', 'Task Name');
+      data.addColumn('string', 'Resourse');
+      data.addColumn('date', 'Start Date');
+      data.addColumn('date', 'End Date');
+      data.addColumn('number', 'Duration');
+      data.addColumn('number', 'Percent Complete');
+      data.addColumn('string', 'Dependencies');
+
+
+const formattedTasks = children1.map((task,index) => ([
+  String(index), // пустая строка для задачи ID, так как в исходных данных он отсутствует
+  task.Дисциплина,
+  task.Аудитория,
+  parseDate(task.Дата, task.Время.split('-')[0]), // функция parseDate(дата, время) нужно определить
+  parseDate(task.Дата, task.Время.split('-')[1]), // функция parseEndDate(дата, время) нужно определить
+  toMilliseconds(calculateDuration(parseDate(task.Дата, task.Время.split('-')[0]),parseDate(task.Дата, task.Время.split('-')[1]))), // Продолжительность. В вашем JSON-файле этого значения нет, поэтому используем null
+  null, // Процент выполнения. Также отсутствует в исходных данных, поэтому используем null
+ null // Зависимости. Аналогично, отсутствует в исходных данных, поэтому используем null
+]));
+
+console.log(formattedTasks);
+      data.addRows(formattedTasks);
+
+      var options = {
+        height: 1000,
+		gantt: {
+          trackHeight: 30,
+		  defaultStartDate: new Date()
+        }
+      };
+
+      var chart = new google.visualization.Gantt(document.getElementById('chart_div'));
+      chart.draw(data, options);
+    }
+
+  </script>
+
+  <div id="chart_div"></div>
+  <br>
+  <br>
+  <br>
+  <br>
