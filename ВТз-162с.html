@@ -189,6 +189,7 @@ small {
 
 
 <script>
+
 let children1 = [
     {
         "Дата": "09.01",
@@ -503,15 +504,17 @@ var $table = $('#table');
     })
 
 		var trBoldBlue = $("table");
-  trBoldBlue.setAttribute('data-toggle', 'table');
-  trBoldBlue.setAttribute('data-search', 'true');
-  trBoldBlue.setAttribute('data-filter-control', 'true');
-  trBoldBlue.setAttribute('data-show-export', 'true');
-  trBoldBlue.setAttribute('data-click-to-select', 'true');
-  trBoldBlue.setAttribute('data-toolbar', '#toolbar');
+
   
 	$(trBoldBlue).on("click", "tr", function (){
 			$(this).toggleClass("bold-blue");
+
+      trBoldBlue.addAttribute('data-toggle', 'table');
+  trBoldBlue.addAttribute('data-search', 'true');
+  trBoldBlue.addAttribute('data-filter-control', 'true');
+  trBoldBlue.addAttribute('data-show-export', 'true');
+  trBoldBlue.addAttribute('data-click-to-select', 'true');
+  trBoldBlue.addAttribute('data-toolbar', '#toolbar');
 	});
   
   function addHeaders(table, keys) {
@@ -519,8 +522,8 @@ var $table = $('#table');
     for (var i = 0; i < keys.length; i++) {
       var cell = row.insertCell();
   
-       cell.setAttribute('data-filter-control','select');
-      cell.setAttribute('data-filter-control','select');
+       cell.addAttribute('data-filter-control','select');
+      cell.addAttribute('data-filter-control','select');
 
                    
       cell.appendChild(document.createTextNode(keys[i]));
@@ -534,16 +537,7 @@ var $table = $('#table');
       addHeaders(table, Object.keys(child));
     }
     var row = table.insertRow();
-    Object.keys(child).forEach(function (k) {
-      console.log(k);
-      var cell = row.insertCell();
-      cell.appendChild(document.createTextNode(child[k]));
-    });
-  }
-
-  document.querySelector(".leaderboard1").appendChild(table);
-});
-
+    …
 </script>
 
 
