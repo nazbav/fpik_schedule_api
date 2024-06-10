@@ -1,5 +1,5 @@
 {
-    "title": "ВТз-261с 2024-06-10 13:42:30 (n4v parser)",
+    "title": "ВТз-261с 2024-06-10 13:45:42 (n4v parser)",
     "data": [
         {
             "date": "2024-06-08",
@@ -63,7 +63,7 @@
             "lessons": [
                 {
                     "time": null,
-                    "type": null,
+                    "type": "weekend",
                     "subject": "",
                     "instructor": null,
                     "room": null
