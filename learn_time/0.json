@@ -1,83 +1,16 @@
 {
-    "title": "ВТз-261с 2024-06-10 14:36:46 (n4v parser)",
-    "last_updated": "2024-06-10 14:36:46",
+    "title": "ВТз-261с 2024-06-10 14:42:47 (n4v parser)",
+    "last_updated": "2024-06-10 14:42:47",
     "data": [
-        {
-            "date": "2024-06-08",
-            "lessons": [
-                {
-                    "time": "В",
-                    "type": "weekend",
-                    "subject": "В 501",
-                    "instructor": "В",
-                    "room": "501"
-                }
-            ]
-        },
-        {
-            "date": "2024-06-10",
-            "lessons": [
-                {
-                    "time": "В",
-                    "type": "weekend",
-                    "subject": "В 208 В 208",
-                    "instructor": "В",
-                    "room": "208"
-                }
-            ]
-        },
-        {
-            "date": "2024-06-11",
-            "lessons": [
-                {
-                    "time": "В",
-                    "type": "weekend",
-                    "subject": "В 501",
-                    "instructor": "В",
-                    "room": "601"
-                }
-            ]
-        },
-        {
-            "date": "2024-06-13",
-            "lessons": [
-                {
-                    "time": "В",
-                    "type": "weekend",
-                    "subject": "В 1201",
-                    "instructor": "В",
-                    "room": "1201"
-                }
-            ]
-        },
-        {
-            "date": "2024-06-14",
-            "lessons": [
-                {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "3-6 прак. ТЕХН. digital-коммуникаций",
-                    "instructor": "Смирнова А.А.",
-                    "room": "В-209"
-                },
-                {
-                    "time": "7-10",
-                    "type": "practice",
-                    "subject": "7-10 пр. ПСИХОЛОГИЯ И СОЦ.МК",
-                    "instructor": "Дубова Ю.И.",
-                    "room": "В-208"
-                }
-            ]
-        },
         {
             "date": "2024-06-15",
             "lessons": [
                 {
-                    "time": "7-10",
-                    "type": "practice",
-                    "subject": "7-10 пр. ИНОСТР. ЯЗЫК",
-                    "instructor": "Ионкина (анг.)",
-                    "room": "432"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -85,30 +18,23 @@
             "date": "2024-06-16",
             "lessons": [
                 {
-                    "time": "7-10",
-                    "type": "practice",
-                    "subject": "7-10 пр. ИНОСТР. ЯЗЫК",
-                    "instructor": "Лазарева (фр.)",
-                    "room": "312"
-                },
-                {
-                    "time": "",
+                    "time": null,
                     "type": "weekend",
                     "subject": "",
-                    "instructor": "Тихаева (нем.)",
-                    "room": "400"
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
         {
-            "date": "2024-06-17",
+            "date": "1970-01-01",
             "lessons": [
                 {
-                    "time": "7-10",
+                    "time": null,
                     "type": "weekend",
-                    "subject": "7-10 прак. РАЗРАБОТКА И ТЕХНОЛОГИЯ ПРП",
-                    "instructor": "Смирнова А.А.",
-                    "room": "В-604"
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -116,11 +42,23 @@
             "date": "2024-06-18",
             "lessons": [
                 {
-                    "time": "В",
-                    "type": "test",
-                    "subject": "В 802 7-8 пр. ИНОСТР. ЯЗЫК 13:40 ЗАЧЕТ",
-                    "instructor": "Ионкина (анг.)",
-                    "room": "432"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -128,11 +66,23 @@
             "date": "2024-06-19",
             "lessons": [
                 {
-                    "time": "7-10",
-                    "type": "practice",
-                    "subject": "7-10 пр. ОСНОВЫ МЕДИАПЛАН.",
-                    "instructor": "Туманова Е.С. В",
-                    "room": "501"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -140,18 +90,23 @@
             "date": "2024-06-20",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "practice",
-                    "subject": "3-6 пр. РЕКЛАМНЫЙ МЕНЕДЖМЕНТ",
-                    "instructor": "Фролов Д.П. В",
-                    "room": "604"
-                },
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
                 {
-                    "time": "7-10",
-                    "type": "practice",
-                    "subject": "7-10 пр. ОСНОВЫ БРЕНДИНГА",
-                    "instructor": "Заруднева А.Ю.",
-                    "room": "В-602"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "ОПЕРЦИОННЫЕ СИСТЕМЫ",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -159,11 +114,23 @@
             "date": "2024-06-21",
             "lessons": [
                 {
-                    "time": "7-8",
-                    "type": "test",
-                    "subject": "7-8 РАЗРАБОТКА И ТЕХН. ПРП ЗАЧЕТ",
-                    "instructor": "Смирнова А.А.",
-                    "room": "В-602"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -171,11 +138,23 @@
             "date": "2024-06-22",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "practice",
-                    "subject": "3-6 пр. РЕКЛАМА И СВЯЗИ С ОБЩ.",
-                    "instructor": "Заруднева А.Ю. В",
-                    "room": "604"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -183,18 +162,23 @@
             "date": "2024-06-23",
             "lessons": [
                 {
-                    "time": "3-4",
-                    "type": "test",
-                    "subject": "3-4 пр. ИНОСТР. ЯЗЫК 11:50 ЗАЧЕТ",
-                    "instructor": "Лазарева (фр.)",
-                    "room": "436б"
-                },
-                {
-                    "time": "",
+                    "time": null,
                     "type": "weekend",
                     "subject": "",
-                    "instructor": "Тихаева (нем.)",
-                    "room": "406"
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -202,11 +186,35 @@
             "date": "2024-06-24",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "test",
-                    "subject": "3-6 пр. ФИНАНСЫ И КРЕДИТ ЗАЧЕТ",
-                    "instructor": "Езангина И.А. В",
-                    "room": "401"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -214,11 +222,23 @@
             "date": "2024-06-25",
             "lessons": [
                 {
-                    "time": "1-2",
-                    "type": "exam",
-                    "subject": "1-2 пр. РЕКЛАМА И СВЯЗИ С ОБЩ. 10:00 ЭКЗАМЕН",
-                    "instructor": "Заруднева А.Ю. В",
-                    "room": "602"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -226,11 +246,23 @@
             "date": "2024-06-26",
             "lessons": [
                 {
-                    "time": "3-4",
-                    "type": "exam",
-                    "subject": "3-4 пр. ОСНОВЫ МЕДИАПЛАН. 11:50 ЭКЗАМЕН",
-                    "instructor": "Туманова Е.С. В",
-                    "room": "602"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -238,11 +270,23 @@
             "date": "2024-06-27",
             "lessons": [
                 {
-                    "time": "3-4",
-                    "type": "exam",
-                    "subject": "3-4 пр. ПСИХ. И СОЦ. МК 11:50 ЭКЗАМЕН",
-                    "instructor": "Дубова Ю.И. В",
-                    "room": "602"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -250,11 +294,23 @@
             "date": "2024-06-28",
             "lessons": [
                 {
-                    "time": "3-4",
-                    "type": "exam",
-                    "subject": "3-4 прак. ТЕХНОЛОГИИ digital-коммуникаций 11:50 ЭКЗАМЕН",
-                    "instructor": "Смирнова А.А. В",
-                    "room": "501"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -262,11 +318,11 @@
             "date": "2024-06-29",
             "lessons": [
                 {
-                    "time": "7-10",
-                    "type": "practice",
-                    "subject": "7-10 пр. ОСНОВЫ БРЕНДИНГА",
-                    "instructor": "Заруднева А.Ю.",
-                    "room": "В-602"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -274,11 +330,23 @@
             "date": "2024-06-30",
             "lessons": [
                 {
-                    "time": "ОСНОВЫ",
-                    "type": "exam",
-                    "subject": "ОСНОВЫ БРЕНДИНГА 10:00 ЭКЗАМЕН",
-                    "instructor": "Заруднева А.Ю.",
-                    "room": "В-602"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "1970-01-01",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -286,11 +354,11 @@
             "date": "2024-07-01",
             "lessons": [
                 {
-                    "time": "5-6",
-                    "type": "exam",
-                    "subject": "5-6 пр. РЕКЛАМНЫЙ МЕНЕДЖМЕНТ 13:40 ЭКЗАМЕН",
-                    "instructor": "Фролов Д.П. В",
-                    "room": "602"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -298,11 +366,23 @@
             "date": "2024-07-02",
             "lessons": [
                 {
-                    "time": "ПРОИЗВОДСТВЕННАЯ",
-                    "type": "test",
-                    "subject": "ПРОИЗВОДСТВЕННАЯ ПРАКТИКА 13:40 ЗАЧЕТ",
-                    "instructor": "Заруднева А.Ю. В",
-                    "room": "602"
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
+                }
+            ]
+        },
+        {
+            "date": "2024-07-03",
+            "lessons": [
+                {
+                    "time": null,
+                    "type": "weekend",
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         }
