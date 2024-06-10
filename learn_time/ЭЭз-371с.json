@@ -1,6 +1,6 @@
 {
-    "title": "ВТз-261с 2024-06-10 15:35:03 (n4v parser)",
-    "last_updated": "2024-06-10 15:35:03",
+    "title": "ВТз-261с 2024-06-10 15:44:30 (n4v parser)",
+    "last_updated": "2024-06-10 15:44:30",
     "data": [
         {
             "date": "2024-06-08",
@@ -169,7 +169,7 @@
             "lessons": [
                 {
                     "time": null,
-                    "type": "weekend",
+                    "type": null,
                     "subject": "ЭЛЕКТРИЧЕСКОЕ ОСВЕЩЕНИЕ 3-6 лекция А 407 7-10 практика А 407б",
                     "instructor": null,
                     "room": null
