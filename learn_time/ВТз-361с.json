@@ -6,18 +6,18 @@
             "date": "2024-06-08",
             "lessons": [
                 {
-                    "time": "5-8",
-                    "type": "lecture",
-                    "subject": "5-8 лекция ПРОФЕССИОНАЛЬНАЯ КОММУНИКАЦИЯ",
-                    "instructor": "доц. Парыгин Д.С. В",
-                    "room": "1401"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "9-12",
-                    "type": "lecture",
-                    "subject": "9-12 лекция ПРОГРАММНАЯ ИНЖЕНЕРИЯ",
-                    "instructor": "Шабалина О.А. В",
-                    "room": "1401"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -25,11 +25,11 @@
             "date": "2024-06-09",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "lecture",
-                    "subject": "3-6 лекция ЗАЩИТА ИНФОРМАЦИИ",
-                    "instructor": "Жариков В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -37,18 +37,18 @@
             "date": "2024-06-10",
             "lessons": [
                 {
-                    "time": "5-8",
-                    "type": "lecture",
-                    "subject": "5-8 лекция ОСНОВЫ СИСТЕМНОЙ ИНЖЕНЕРИИ",
-                    "instructor": "Шабалина О.А. В",
-                    "room": "209"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "9-12",
-                    "type": "lecture",
-                    "subject": "9-12 лекция \n ТЕХ. РАЗРАБОТКИ ЧЕЛ.-МАШИННЫХ ИНТЕРФЕЙСОВ",
-                    "instructor": "Тюков А.П. В",
-                    "room": "209"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -56,18 +56,18 @@
             "date": "2024-06-13",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "practice",
-                    "subject": "ПРОФЕССИОНАЛЬНАЯ КОММУНИКАЦИЯ 3-6 практика",
-                    "instructor": "доц. Парыгин Д.С. В",
-                    "room": "1402-1"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "7-10",
-                    "type": "weekend",
-                    "subject": "7-10 лаборат. ПРОГРАММНАЯ ИНЖЕНЕРИЯ",
-                    "instructor": "Шабалина О.А. В",
-                    "room": "1402-1"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -75,18 +75,18 @@
             "date": "2024-06-14",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "ТЕХНОЛОГИИ РАЗРАБОТКИ \nЧЕЛОВЕКО-МАШИННЫХ ИНТЕРФЕЙСОВ 3-6 лаборат.",
-                    "instructor": "Тюков А.П. В",
-                    "room": "1402-2"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "7-10",
-                    "type": "weekend",
-                    "subject": "ОСНОВЫ СИСТЕМНОЙ ИНЖЕНЕРИИ 7-10 лаборат.",
-                    "instructor": "Шабалина О.А. В",
-                    "room": "1402-2"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -94,11 +94,11 @@
             "date": "2024-06-17",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "lecture",
-                    "subject": "3-6 лекция ТЕХНОЛОГИИ РАСПРЕДЕЛЕННОГО Хайров А.В. В 1402-2 7-10 лаборат. ПРОГРАММНАЯ ИНЖЕНЕРИЯ",
-                    "instructor": "Шабалина О.А. В",
-                    "room": "1402-2"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -106,18 +106,18 @@
             "date": "2024-06-18",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "ЗАЩИТА ИНФОРМАЦИИ 3-6 лаборат.",
-                    "instructor": "Жариков В",
-                    "room": "1303"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "7-10",
-                    "type": "weekend",
-                    "subject": "ОСНОВЫ СИСТЕМНОЙ ИНЖЕНЕРИИ 7-10 лаборат.",
-                    "instructor": "Шабалина О.А. В",
-                    "room": "1402-3"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -125,18 +125,18 @@
             "date": "2024-06-19",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "lecture",
-                    "subject": "ТЕХНОЛОГИИ ЭКСПЕРИМЕНТАЛЬНЫХ ИССЛЕДОВАНИЙ 3-6 лекция",
-                    "instructor": "Смирнов Е.А. В",
-                    "room": "1102"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "7-10",
-                    "type": "weekend",
-                    "subject": "ЗАЩИТА ИНФОРМАЦИИ 7-10 лаборат.",
-                    "instructor": "Жариков В",
-                    "room": "1301"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -144,18 +144,18 @@
             "date": "2024-06-20",
             "lessons": [
                 {
-                    "time": "1-4",
-                    "type": "weekend",
-                    "subject": "ТЕХНОЛОГИИ РАЗРАБОТКИ \nЧЕЛОВЕКО-МАШИННЫХ ИНТЕРФЕЙСОВ 1-4 лаборат.",
-                    "instructor": "Тюков А.П. В",
-                    "room": "1401"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "",
-                    "type": "exam",
-                    "subject": "ЗАЩИТА ИНФОРМАЦИИ 11:50 ЭКЗАМЕН",
-                    "instructor": "Жариков В",
-                    "room": "1303"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -163,18 +163,18 @@
             "date": "2024-06-21",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "ТЕХНОЛОГИИ ЭКСПЕРИМЕНТАЛЬНЫХ ИССЛЕДОВАНИЙ 3-6 лаборат.",
-                    "instructor": "Смирнов Е.А. В",
-                    "room": "1004"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "7-10",
-                    "type": "weekend",
-                    "subject": "ПРОГРАММНАЯ ИНЖЕНЕРИЯ 7-10 лаборат.",
-                    "instructor": "Хайров А.В. В",
-                    "room": "1402-3"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -182,18 +182,18 @@
             "date": "2024-06-24",
             "lessons": [
                 {
-                    "time": "5-6",
-                    "type": "lecture",
-                    "subject": "5-6 лекция ОСНОВЫ СИСТЕМНОЙ ИНЖЕНЕРИИ",
-                    "instructor": "Шабалина О.А. В",
-                    "room": "802"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "",
-                    "type": "test",
-                    "subject": "ПРОГРАММНАЯ ИНЖЕНЕРИЯ 13:40 ЗАЧЕТ",
-                    "instructor": "Шабалина О.А. В",
-                    "room": "802"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -201,11 +201,11 @@
             "date": "2024-06-25",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "test",
-                    "subject": "ПРОФЕССИОНАЛЬНАЯ КОММУНИКАЦИЯ 10:10 ЗАЧЕТ",
-                    "instructor": "доц. Парыгин Д.С. В",
-                    "room": "1401"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -213,11 +213,11 @@
             "date": "2024-06-26",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "exam",
-                    "subject": "ОСНОВЫ СИСТЕМНОЙ ИНЖЕНЕРИИ 13:40 ЭКЗАМЕН",
-                    "instructor": "Шабалина О.А. В",
-                    "room": "1402-1"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -225,11 +225,11 @@
             "date": "2024-06-27",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "ТЕХНОЛОНИИ РАСПРЕДЕЛЕННОГО 3-6 лаборат. Хайров А.В. В 1402-1 ТЕХНОЛОГИИ ЭКСПЕРИМЕНТАЛЬНЫХ ИССЛЕДОВАНИЙ 7-10 лаборат.",
-                    "instructor": "Смирнов Е.А. В",
-                    "room": "1201"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -237,11 +237,11 @@
             "date": "2024-06-28",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "test",
-                    "subject": "ТЕХНОЛОГИИ РАЗРАБОТКИ \nЧЕЛОВЕКО-МАШИННЫХ ИНТЕРФЕЙСОВ 10:10 ЗАЧЕТ",
-                    "instructor": "Тюков А.П. В",
-                    "room": "1401"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -249,11 +249,11 @@
             "date": "2024-07-01",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "test",
-                    "subject": "ТЕХНОЛОГИИ ЭКСПЕРИМЕНТАЛЬНЫХ ИССЛЕДОВАНИЙ 10:10 ЗАЧЕТ",
-                    "instructor": "Смирнов Е.А. В",
-                    "room": "1102"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -261,11 +261,11 @@
             "date": "2024-07-02",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "exam",
-                    "subject": "ТЕХНОЛОНИИ РАСПРЕДЕЛЕННОГО 10:10 ЭКЗАМЕН",
-                    "instructor": "Хайров А.В. В",
-                    "room": "1402-1"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         }

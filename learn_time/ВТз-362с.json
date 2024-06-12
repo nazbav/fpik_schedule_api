@@ -6,11 +6,11 @@
             "date": "2024-06-08",
             "lessons": [
                 {
-                    "time": "5-8",
-                    "type": "lecture",
-                    "subject": "5-8 лекция ПОСТРОЕНИЕ СИСТЕМ \nУПРАВЛЕНИЯ БАЗАМИ ДАННЫХ",
-                    "instructor": "Кузнецов В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -18,18 +18,18 @@
             "date": "2024-06-09",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "lecture",
-                    "subject": "3-6 лекция ЗАЩИТА ИНФОРМАЦИИ",
-                    "instructor": "Жариков В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "7-10",
-                    "type": "lecture",
-                    "subject": "7-10 лекция СХЕМОТЕХНИКА",
-                    "instructor": "Тарасов В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -37,18 +37,18 @@
             "date": "2024-06-10",
             "lessons": [
                 {
-                    "time": "5-8",
-                    "type": "weekend",
-                    "subject": "5-8 лаба. ПОСТРОЕНИЕ СИСТЕМ \nУПРАВЛЕНИЯ БАЗАМИ ДАННЫХ 1 п/п",
-                    "instructor": "Кузнецов В",
-                    "room": "1302а"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "9-12",
-                    "type": "weekend",
-                    "subject": "ЗАЩИТА ИНФОРМАЦИИ 9-12 лаборат. 2 п/п",
-                    "instructor": "Жариков В",
-                    "room": "1302а"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -56,18 +56,18 @@
             "date": "2024-06-11",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "3-6 лаба. ПОСТРОЕНИЕ СИСТЕМ \nУПРАВЛЕНИЯ БАЗАМИ ДАННЫХ 1 п/п",
-                    "instructor": "Кузнецов В",
-                    "room": "1301"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "7-10",
-                    "type": "weekend",
-                    "subject": "ЗАЩИТА ИНФОРМАЦИИ 7-10 лаборат. 2 п/п",
-                    "instructor": "Жариков В",
-                    "room": "1301"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -75,11 +75,11 @@
             "date": "2024-06-13",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "weekend",
-                    "subject": "ПОСТРОЕНИЕ СИСТЕМ\n УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ 5 - 8 лаба 1 п/п 9 - 12 лаба 2 п/п",
-                    "instructor": "Кузнецов В",
-                    "room": "1301"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -87,18 +87,18 @@
             "date": "2024-06-14",
             "lessons": [
                 {
-                    "time": "5-8",
-                    "type": "weekend",
-                    "subject": "5-8 лаба СХЕМОТЕХНИКА 1 п/п",
-                    "instructor": "Тарасов В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "9-12",
-                    "type": "weekend",
-                    "subject": "9-12 лаба СХЕМОТЕХНИКА 2 п/п",
-                    "instructor": "Тарасов В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -106,11 +106,11 @@
             "date": "2024-06-15",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "exam",
-                    "subject": "ПОСТРОЕНИЕ СИСТЕМ\n УПРАВЛЕНИЯ БАЗАМИ ДАННЫХ 13:40 ЭКЗАМЕН",
-                    "instructor": "Кузнецов В",
-                    "room": "1301"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -118,11 +118,11 @@
             "date": "2024-06-16",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "lecture",
-                    "subject": "ВВЕДЕНИЕ В ПАРАЛЕЛЬНОЕ\n ПРОГРАММИРОВАНИЕ 3-6 лекция 7-10 лаба 1 п/п",
-                    "instructor": "Жариков В",
-                    "room": "1301"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -130,18 +130,18 @@
             "date": "2024-06-17",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "3-6 лаба СХЕМОТЕХНИКА 2 п/п",
-                    "instructor": "Тарасов В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "7-10",
-                    "type": "weekend",
-                    "subject": "7-10 лаба СХЕМОТЕХНИКА 1 п/п",
-                    "instructor": "Тарасов В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -149,11 +149,11 @@
             "date": "2024-06-18",
             "lessons": [
                 {
-                    "time": "7-10",
-                    "type": "weekend",
-                    "subject": "ЗАЩИТА ИНФОРМАЦИИ 7-10 лаборат. 1 п/п",
-                    "instructor": "Жариков В",
-                    "room": "1303"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -161,18 +161,18 @@
             "date": "2024-06-20",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "exam",
-                    "subject": "СХЕМОТЕХНИКА 11:50 ЭКЗАМЕН",
-                    "instructor": "Тарасов В",
-                    "room": "1302а"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 },
                 {
-                    "time": "9-12",
-                    "type": "weekend",
-                    "subject": "ЗАЩИТА ИНФОРМАЦИИ 9-12 лаборат. 1 п/п",
-                    "instructor": "Жариков В",
-                    "room": "1303"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -180,11 +180,11 @@
             "date": "2024-06-21",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "ВВЕДЕНИЕ В ПАРАЛЕЛЬНОЕ \nПРОГРАММИРОВАНИЕ 3-6 лаба 1 п/п 7-10 лаба 2 п/п",
-                    "instructor": "Жариков В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -192,11 +192,11 @@
             "date": "2024-06-22",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "lecture",
-                    "subject": "АППАРАТНО-ПРОГРАММНЫЕ \nСРЕДСТВА КОМПЬЮТЕРНЫХ СЕТЕЙ 3-6 лекция 7-10 лаба 1 п/п",
-                    "instructor": "Жариков В",
-                    "room": "1302"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -204,11 +204,11 @@
             "date": "2024-06-25",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "ВВЕДЕНИЕ В ПАРАЛЕЛЬНОЕ\n ПРОГРАММИРОВАНИЕ 3-6 лаба 2 п/п АППАРАТНО-ПРОГРАММНЫЕ\nСРЕДСТВА КОМПЬЮТЕРНЫХ СЕТЕЙ 7-10 лаба 2 п/п",
-                    "instructor": "Жариков В",
-                    "room": "1303"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -216,11 +216,11 @@
             "date": "2024-06-26",
             "lessons": [
                 {
-                    "time": "3-6",
-                    "type": "weekend",
-                    "subject": "АППАРАТНО-ПРОГРАММНЫЕ\nСРЕДСТВА КОМПЬЮТЕРНЫХ СЕТЕЙ 3-6 лаба 1 п/п 7-10 лаба 2 п/п",
-                    "instructor": "Жариков В",
-                    "room": "1303"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -228,11 +228,11 @@
             "date": "2024-06-27",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "test",
-                    "subject": "ВВЕДЕНИЕ В ПАРАЛЕЛЬНОЕ\n ПРОГРАММИРОВАНИЕ 13:40 ЗАЧЕТ",
-                    "instructor": "Жариков В",
-                    "room": "1301"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -240,11 +240,11 @@
             "date": "2024-06-28",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "test",
-                    "subject": "АППАРАТНО-ПРОГРАММНЫЕ\nСРЕДСТВА КОМПЬЮТЕРНЫХ СЕТЕЙ 13:40 ЗАЧЕТ",
-                    "instructor": "Жариков В",
-                    "room": "1301"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         },
@@ -252,11 +252,11 @@
             "date": "2024-06-29",
             "lessons": [
                 {
-                    "time": "",
-                    "type": "exam",
-                    "subject": "ЗАЩИТА ИНФОРМАЦИИ 13:40 ЭКЗАМЕН",
-                    "instructor": "Жариков В",
-                    "room": "1301"
+                    "time": null,
+                    "type": null,
+                    "subject": "",
+                    "instructor": null,
+                    "room": null
                 }
             ]
         }
