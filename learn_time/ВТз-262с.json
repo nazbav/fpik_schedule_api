@@ -6,9 +6,9 @@
             "date": "2024-06-08",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "И",
                     "type": "lecture",
-                    "subject": " И АНАЛИЗ ДАННЫХ",
+                    "subject": "И АНАЛИЗ ДАННЫХ И АНАЛИЗ ДАННЫХ",
                     "instructor": "ст.пр. Кравченя П.Д.",
                     "room": "В-1002"
                 }
@@ -18,16 +18,16 @@
             "date": "2024-06-09",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "3-6",
                     "type": "lecture",
-                    "subject": "",
+                    "subject": "3-6 лек. ЭЛЕКТРОТЕХ. И ЭЛЕКТРОН.",
                     "instructor": "проф. Нефедьев А.И.",
                     "room": "416"
                 },
                 {
-                    "time": "",
+                    "time": "ОПЕРАЦ.",
                     "type": "lecture",
-                    "subject": " ОПЕРАЦ. СИСТЕМЫ",
+                    "subject": "ОПЕРАЦ. СИСТЕМЫ ОПЕРАЦ. СИСТЕМЫ",
                     "instructor": "Жариков",
                     "room": "В-1002"
                 }
@@ -37,16 +37,16 @@
             "date": "2024-06-10",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "3-6",
                     "type": "lecture",
-                    "subject": "",
+                    "subject": "3-6 лекц. КОМПЬЮТЕРНАЯ ГРАФ.",
                     "instructor": "ст.пр. Драгунов",
                     "room": "В-1002"
                 },
                 {
-                    "time": "",
+                    "time": "ТЕЛЕКОММУНИКАЦИИ",
                     "type": "lecture",
-                    "subject": " ТЕЛЕКОММУНИКАЦИИ",
+                    "subject": "ТЕЛЕКОММУНИКАЦИИ ТЕЛЕКОММУНИКАЦИИ",
                     "instructor": "Земцов",
                     "room": "В-1402.1"
                 }
@@ -56,16 +56,16 @@
             "date": "2024-06-11",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "1",
                     "type": "laboratory",
-                    "subject": " И АНАЛИЗ ДАННЫХ 1 п/п",
+                    "subject": "1 п/п И АНАЛИЗ ДАННЫХ 1 п/п",
                     "instructor": "Кравченя",
                     "room": "В-1402.2"
                 },
                 {
-                    "time": "",
+                    "time": "1",
                     "type": "laboratory",
-                    "subject": " 1 п/п",
+                    "subject": "1 п/п 1 п/п",
                     "instructor": "Драгунов",
                     "room": "В-1402.2"
                 }
@@ -75,9 +75,9 @@
             "date": "2024-06-13",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "К",
                     "type": "lecture",
-                    "subject": " 5-6 лек. К И Б Е Р П Р А В О",
+                    "subject": "К И Б Е Р П Р А В О 5-6 лек. К И Б Е Р П Р А В О",
                     "instructor": "доц. Леонтьев А.Н.",
                     "room": "В-1002"
                 }
@@ -87,16 +87,16 @@
             "date": "2024-06-14",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "1",
                     "type": "laboratory",
-                    "subject": " ОПЕРАЦ. СИСТЕМЫ 1 п/п",
+                    "subject": "1 п/п ОПЕРАЦ. СИСТЕМЫ 1 п/п",
                     "instructor": "Жариков",
                     "room": "В-1303"
                 },
                 {
-                    "time": "",
+                    "time": "ЗАЧЕТ",
                     "type": "test",
-                    "subject": " ЗАЧЕТ",
+                    "subject": "ЗАЧЕТ ЗАЧЕТ",
                     "instructor": "доц. Леонтьев А.Н.",
                     "room": "В-502"
                 }
@@ -106,16 +106,16 @@
             "date": "2024-06-15",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "2",
                     "type": "laboratory",
-                    "subject": " ОПЕРАЦ. СИСТЕМЫ 2 п/п",
+                    "subject": "2 п/п ОПЕРАЦ. СИСТЕМЫ 2 п/п",
                     "instructor": "Жариков",
                     "room": "В-1303"
                 },
                 {
-                    "time": "",
+                    "time": "2",
                     "type": "laboratory",
-                    "subject": " И АНАЛИЗ ДАННЫХ 2 п/п",
+                    "subject": "2 п/п И АНАЛИЗ ДАННЫХ 2 п/п",
                     "instructor": "Кравченя",
                     "room": "В-1402.3"
                 }
@@ -125,16 +125,16 @@
             "date": "2024-06-16",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "СЕРТИФИКАЦИЯ",
                     "type": "lecture",
-                    "subject": " СЕРТИФИКАЦИЯ",
+                    "subject": "СЕРТИФИКАЦИЯ СЕРТИФИКАЦИЯ",
                     "instructor": "доц.Коптелова И.А.",
                     "room": "В-1402-1"
                 },
                 {
-                    "time": "",
+                    "time": "7-10",
                     "type": "practice",
-                    "subject": "",
+                    "subject": "7-10 пр. ИНОСТР. ЯЗЫК",
                     "instructor": "Тихаева (нем.)",
                     "room": "400"
                 }
@@ -144,9 +144,9 @@
             "date": "2024-06-17",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "1",
                     "type": "laboratory",
-                    "subject": " ОПЕРАЦ. СИСТЕМЫ 3-6 лаб. 2 п/п 7-10 лаб. 1 п/п",
+                    "subject": "1 п/п ОПЕРАЦ. СИСТЕМЫ 3-6 лаб. 2 п/п 7-10 лаб. 1 п/п",
                     "instructor": "Жариков",
                     "room": "В-1303"
                 }
@@ -156,16 +156,16 @@
             "date": "2024-06-18",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "3-6",
                     "type": "practice",
-                    "subject": "",
+                    "subject": "3-6 пр. ИНОСТР. ЯЗЫК",
                     "instructor": "Йованович (анг.)",
                     "room": "422"
                 },
                 {
-                    "time": "",
+                    "time": "1",
                     "type": "laboratory",
-                    "subject": " И АНАЛИЗ ДАННЫХ 1 п/п",
+                    "subject": "1 п/п И АНАЛИЗ ДАННЫХ 1 п/п",
                     "instructor": "Кравченя",
                     "room": "В-1402.1"
                 }
@@ -175,9 +175,9 @@
             "date": "2024-06-19",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "7-10",
                     "type": "laboratory",
-                    "subject": " ТЕЛЕКОММУНИКАЦИИ 3-6 лаб. 2 п/п 7-10 лаб. 1 п/п",
+                    "subject": "7-10 лаб. 1 п/п ТЕЛЕКОММУНИКАЦИИ 3-6 лаб. 2 п/п 7-10 лаб. 1 п/п",
                     "instructor": "Земцов",
                     "room": "В-1402.2"
                 }
@@ -187,9 +187,9 @@
             "date": "2024-06-20",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "2",
                     "type": "laboratory",
-                    "subject": " 1 п/п 5-8 лаб. 2 п/п",
+                    "subject": "2 п/п 1 п/п 5-8 лаб. 2 п/п",
                     "instructor": "Нефедьев",
                     "room": "А-405"
                 }
@@ -199,9 +199,9 @@
             "date": "2024-06-21",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "7-10",
                     "type": "laboratory",
-                    "subject": " СЕРТИФИКАЦИЯ 3-6 лаб. 2 п/п 7-10 лаб. 1 п/п",
+                    "subject": "7-10 лаб. 1 п/п СЕРТИФИКАЦИЯ 3-6 лаб. 2 п/п 7-10 лаб. 1 п/п",
                     "instructor": "Коптелова И.А.",
                     "room": "В-1402.2"
                 }
@@ -211,16 +211,16 @@
             "date": "2024-06-22",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "1",
                     "type": "laboratory",
-                    "subject": " ТЕЛЕКОММУНИКАЦИИ 1 п/п",
+                    "subject": "1 п/п ТЕЛЕКОММУНИКАЦИИ 1 п/п",
                     "instructor": "Земцов",
                     "room": "В-1402.2"
                 },
                 {
-                    "time": "",
+                    "time": "2",
                     "type": "laboratory",
-                    "subject": " И АНАЛИЗ ДАННЫХ 2 п/п",
+                    "subject": "2 п/п И АНАЛИЗ ДАННЫХ 2 п/п",
                     "instructor": "Кравченя",
                     "room": "В-1402.3"
                 }
@@ -230,9 +230,9 @@
             "date": "2024-06-23",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "1",
                     "type": "laboratory",
-                    "subject": " 1 п/п",
+                    "subject": "1 п/п 1 п/п",
                     "instructor": "Нефедьев",
                     "room": "А-405"
                 }
@@ -242,16 +242,16 @@
             "date": "2024-06-24",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "2",
                     "type": "laboratory",
-                    "subject": " 2 п/п",
+                    "subject": "2 п/п 2 п/п",
                     "instructor": "Драгунов",
                     "room": "В-1402.3"
                 },
                 {
-                    "time": "",
+                    "time": "ЗАЧЕТ",
                     "type": "test",
-                    "subject": " СЕРТИФИКАЦИЯ ЗАЧЕТ",
+                    "subject": "ЗАЧЕТ СЕРТИФИКАЦИЯ ЗАЧЕТ",
                     "instructor": "Коптелова И.А.",
                     "room": "В-1302"
                 }
@@ -261,16 +261,16 @@
             "date": "2024-06-25",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "2",
                     "type": "laboratory",
-                    "subject": " ТЕЛЕКОММУНИКАЦИИ 2 п/п",
+                    "subject": "2 п/п ТЕЛЕКОММУНИКАЦИИ 2 п/п",
                     "instructor": "Земцов",
                     "room": "В-1402.2"
                 },
                 {
-                    "time": "",
+                    "time": "1",
                     "type": "laboratory",
-                    "subject": " ТЕЛЕКОММУНИКАЦИИ 1 п/п",
+                    "subject": "1 п/п ТЕЛЕКОММУНИКАЦИИ 1 п/п",
                     "instructor": "Земцов",
                     "room": "В-1402.2"
                 }
@@ -280,9 +280,9 @@
             "date": "2024-06-26",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "ЭКЗАМЕН",
                     "type": "exam",
-                    "subject": " И АНАЛИЗ ДАННЫХ ЭКЗАМЕН",
+                    "subject": "ЭКЗАМЕН И АНАЛИЗ ДАННЫХ ЭКЗАМЕН",
                     "instructor": "Кравченя В",
                     "room": "1401"
                 }
@@ -292,9 +292,9 @@
             "date": "2024-06-27",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "2",
                     "type": "laboratory",
-                    "subject": " 2 п/п",
+                    "subject": "2 п/п 2 п/п",
                     "instructor": "Нефедьев",
                     "room": "А-405"
                 }
@@ -304,9 +304,9 @@
             "date": "2024-06-28",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "ЗАЧЕТ",
                     "type": "test",
-                    "subject": " ЗАЧЕТ",
+                    "subject": "ЗАЧЕТ ЗАЧЕТ",
                     "instructor": "Йованович (анг.)",
                     "room": "410б"
                 },
@@ -323,9 +323,9 @@
             "date": "2024-06-29",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "ЭКЗАМЕН",
                     "type": "exam",
-                    "subject": " ЭКЗАМЕН",
+                    "subject": "ЭКЗАМЕН ЭКЗАМЕН",
                     "instructor": "Земцов",
                     "room": "В-1402.2"
                 }
@@ -335,16 +335,16 @@
             "date": "2024-06-30",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "ЭКЗАМЕН",
                     "type": "exam",
-                    "subject": " ЭКЗАМЕН",
+                    "subject": "ЭКЗАМЕН ЭКЗАМЕН",
                     "instructor": "Нефедьев",
                     "room": "А-405"
                 },
                 {
-                    "time": "",
+                    "time": "1",
                     "type": "laboratory",
-                    "subject": " 1 п/п",
+                    "subject": "1 п/п 1 п/п",
                     "instructor": "Драгунов",
                     "room": "В-1401"
                 }
@@ -354,16 +354,16 @@
             "date": "2024-07-01",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "2",
                     "type": "laboratory",
-                    "subject": " 2 п/п",
+                    "subject": "2 п/п 2 п/п",
                     "instructor": "Драгунов",
                     "room": "В-1401"
                 },
                 {
-                    "time": "",
+                    "time": "13:40",
                     "type": "exam",
-                    "subject": " ОПЕРАЦ. СИСТЕМЫ 13:40 ЭКЗАМЕН",
+                    "subject": "13:40 ЭКЗАМЕН ОПЕРАЦ. СИСТЕМЫ 13:40 ЭКЗАМЕН",
                     "instructor": "Жариков",
                     "room": "В-1302а"
                 }
@@ -373,9 +373,9 @@
             "date": "2024-07-02",
             "lessons": [
                 {
-                    "time": "",
+                    "time": "ЭКЗАМЕН",
                     "type": "exam",
-                    "subject": " ЭКЗАМЕН",
+                    "subject": "ЭКЗАМЕН ЭКЗАМЕН",
                     "instructor": "Драгунов",
                     "room": "В-1401"
                 }
