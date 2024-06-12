@@ -6,11 +6,11 @@
             "date": "2024-06-08",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "5-8",
+                    "type": "lecture",
+                    "subject": "5-8 лекц. МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ",
+                    "instructor": "ст.пр. Кравченя П.Д.",
+                    "room": "В-1002"
                 }
             ]
         },
@@ -18,18 +18,18 @@
             "date": "2024-06-09",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "lecture",
+                    "subject": "3-6 лек. ЭЛЕКТРОТЕХ. И ЭЛЕКТРОН.",
+                    "instructor": "проф. Нефедьев А.И.",
+                    "room": "416"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "lecture",
+                    "subject": "7-10 лекц. МОБ. И ВСТРАИВАЕМЫЕ ОПЕРАЦ. СИСТЕМЫ",
+                    "instructor": "Жариков",
+                    "room": "В-1002"
                 }
             ]
         },
@@ -37,18 +37,18 @@
             "date": "2024-06-10",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "lecture",
+                    "subject": "3-6 лекц. КОМПЬЮТЕРНАЯ ГРАФ.",
+                    "instructor": "ст.пр. Драгунов",
+                    "room": "В-1002"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "lecture",
+                    "subject": "7-10 лекц. СЕТИ И ТЕЛЕКОММУНИКАЦИИ",
+                    "instructor": "Земцов",
+                    "room": "В-1402.1"
                 }
             ]
         },
@@ -56,18 +56,18 @@
             "date": "2024-06-11",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "3-6 лаб. МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ 1 п/п",
+                    "instructor": "Кравченя",
+                    "room": "В-1402.2"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "laboratory",
+                    "subject": "7-10 лаб. КОМПЬЮТЕРНАЯ ГРАФ. 1 п/п",
+                    "instructor": "Драгунов",
+                    "room": "В-1402.2"
                 }
             ]
         },
@@ -75,11 +75,11 @@
             "date": "2024-06-13",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "1-4",
+                    "type": "lecture",
+                    "subject": "1-4 прак. 5-6 лек. К И Б Е Р П Р А В О",
+                    "instructor": "доц. Леонтьев А.Н.",
+                    "room": "В-1002"
                 }
             ]
         },
@@ -87,18 +87,18 @@
             "date": "2024-06-14",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "3-6 лаб. МОБ. И ВСТРАИВАЕМЫЕ ОПЕРАЦ. СИСТЕМЫ 1 п/п",
+                    "instructor": "Жариков",
+                    "room": "В-1303"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "test",
+                    "subject": "7-10 К И Б Е Р П Р А В О ЗАЧЕТ",
+                    "instructor": "доц. Леонтьев А.Н.",
+                    "room": "В-502"
                 }
             ]
         },
@@ -106,18 +106,18 @@
             "date": "2024-06-15",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "3-6 лаб. МОБ. И ВСТРАИВАЕМЫЕ ОПЕРАЦ. СИСТЕМЫ 2 п/п",
+                    "instructor": "Жариков",
+                    "room": "В-1303"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "laboratory",
+                    "subject": "7-10 лаб. МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ 2 п/п",
+                    "instructor": "Кравченя",
+                    "room": "В-1402.3"
                 }
             ]
         },
@@ -125,18 +125,18 @@
             "date": "2024-06-16",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "lecture",
+                    "subject": "3-6 лекц. МЕТРОЛОГИЯ, СТАНДАРТ. И СЕРТИФИКАЦИЯ",
+                    "instructor": "доц.Коптелова И.А.",
+                    "room": "В-1402-1"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "practice",
+                    "subject": "7-10 пр. ИНОСТР. ЯЗЫК",
+                    "instructor": "Тихаева (нем.)",
+                    "room": "400"
                 }
             ]
         },
@@ -144,11 +144,11 @@
             "date": "2024-06-17",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "МОБ. И ВСТРАИВАЕМЫЕ ОПЕРАЦ. СИСТЕМЫ 3-6 лаб. 2 п/п 7-10 лаб. 1 п/п",
+                    "instructor": "Жариков",
+                    "room": "В-1303"
                 }
             ]
         },
@@ -156,18 +156,18 @@
             "date": "2024-06-18",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "practice",
+                    "subject": "3-6 пр. ИНОСТР. ЯЗЫК",
+                    "instructor": "Йованович (анг.)",
+                    "room": "422"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "laboratory",
+                    "subject": "7-10 лаб. МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ 1 п/п",
+                    "instructor": "Кравченя",
+                    "room": "В-1402.1"
                 }
             ]
         },
@@ -175,11 +175,11 @@
             "date": "2024-06-19",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "СЕТИ И ТЕЛЕКОММУНИКАЦИИ 3-6 лаб. 2 п/п 7-10 лаб. 1 п/п",
+                    "instructor": "Земцов",
+                    "room": "В-1402.2"
                 }
             ]
         },
@@ -187,11 +187,11 @@
             "date": "2024-06-20",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "1-4",
+                    "type": "laboratory",
+                    "subject": "1-4 лаб. ЭЛЕКТРОТЕХНИКА 1 п/п 5-8 лаб. 2 п/п",
+                    "instructor": "Нефедьев",
+                    "room": "А-405"
                 }
             ]
         },
@@ -199,11 +199,11 @@
             "date": "2024-06-21",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "МЕТРОЛОГИЯ, СТАНДАРТИЗАЦИЯ И СЕРТИФИКАЦИЯ 3-6 лаб. 2 п/п 7-10 лаб. 1 п/п",
+                    "instructor": "Коптелова И.А.",
+                    "room": "В-1402.2"
                 }
             ]
         },
@@ -211,18 +211,18 @@
             "date": "2024-06-22",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "3-6 лаб. СЕТИ И ТЕЛЕКОММУНИКАЦИИ 1 п/п",
+                    "instructor": "Земцов",
+                    "room": "В-1402.2"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "laboratory",
+                    "subject": "7-10 лаб. МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ 2 п/п",
+                    "instructor": "Кравченя",
+                    "room": "В-1402.3"
                 }
             ]
         },
@@ -230,11 +230,11 @@
             "date": "2024-06-23",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "5-8",
+                    "type": "laboratory",
+                    "subject": "5-8 лаб. ЭЛЕКТРОТЕХНИКА 1 п/п",
+                    "instructor": "Нефедьев",
+                    "room": "А-405"
                 }
             ]
         },
@@ -242,18 +242,18 @@
             "date": "2024-06-24",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "3-6 лаб. КОМПЬЮТЕРНАЯ ГРАФ. 2 п/п",
+                    "instructor": "Драгунов",
+                    "room": "В-1402.3"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "test",
+                    "subject": "7-10 МЕТРОЛОГИЯ, СТАНДАРТИЗАЦИЯ И СЕРТИФИКАЦИЯ ЗАЧЕТ",
+                    "instructor": "Коптелова И.А.",
+                    "room": "В-1302"
                 }
             ]
         },
@@ -261,18 +261,18 @@
             "date": "2024-06-25",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "3-6 лаб. СЕТИ И ТЕЛЕКОММУНИКАЦИИ 2 п/п",
+                    "instructor": "Земцов",
+                    "room": "В-1402.2"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "laboratory",
+                    "subject": "7-10 лаб. СЕТИ И ТЕЛЕКОММУНИКАЦИИ 1 п/п",
+                    "instructor": "Земцов",
+                    "room": "В-1402.2"
                 }
             ]
         },
@@ -280,11 +280,11 @@
             "date": "2024-06-26",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-8",
+                    "type": "exam",
+                    "subject": "3-8 МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ ЭКЗАМЕН",
+                    "instructor": "Кравченя В",
+                    "room": "1401"
                 }
             ]
         },
@@ -292,11 +292,11 @@
             "date": "2024-06-27",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "1-4",
+                    "type": "laboratory",
+                    "subject": "1-4 лаб. ЭЛЕКТРОТЕХНИКА 2 п/п",
+                    "instructor": "Нефедьев",
+                    "room": "А-405"
                 }
             ]
         },
@@ -304,18 +304,18 @@
             "date": "2024-06-28",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "1-4",
+                    "type": "test",
+                    "subject": "1-4 ИНОСТР. ЯЗЫК ЗАЧЕТ",
+                    "instructor": "Йованович (анг.)",
+                    "room": "410б"
                 },
                 {
-                    "time": null,
-                    "type": null,
+                    "time": "",
+                    "type": "weekend",
                     "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "instructor": "Тихаева (нем.)",
+                    "room": "400"
                 }
             ]
         },
@@ -323,11 +323,11 @@
             "date": "2024-06-29",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "exam",
+                    "subject": "3-6 СЕТИ И ТЕЛЕКОМ. ЭКЗАМЕН",
+                    "instructor": "Земцов",
+                    "room": "В-1402.2"
                 }
             ]
         },
@@ -335,18 +335,18 @@
             "date": "2024-06-30",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "1-6",
+                    "type": "exam",
+                    "subject": "1-6 ЭЛЕКТРОТЕХ. И ЭЛЕКТРОНИКА ЭКЗАМЕН",
+                    "instructor": "Нефедьев",
+                    "room": "А-405"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "7-10",
+                    "type": "laboratory",
+                    "subject": "7-10 лаб. КОМПЬЮТЕРНАЯ ГРАФ. 1 п/п",
+                    "instructor": "Драгунов",
+                    "room": "В-1401"
                 }
             ]
         },
@@ -354,18 +354,18 @@
             "date": "2024-07-01",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "laboratory",
+                    "subject": "3-6 лаб. КОМПЬЮТЕРНАЯ ГРАФ. 2 п/п",
+                    "instructor": "Драгунов",
+                    "room": "В-1401"
                 },
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "",
+                    "type": "exam",
+                    "subject": "МОБ. И ВСТРАИВАЕМЫЕ ОПЕРАЦ. СИСТЕМЫ 13:40 ЭКЗАМЕН",
+                    "instructor": "Жариков",
+                    "room": "В-1302а"
                 }
             ]
         },
@@ -373,11 +373,11 @@
             "date": "2024-07-02",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "exam",
+                    "subject": "3-6 КОМПЬЮТЕРНАЯ ГРАФ. ЭКЗАМЕН",
+                    "instructor": "Драгунов",
+                    "room": "В-1401"
                 }
             ]
         }

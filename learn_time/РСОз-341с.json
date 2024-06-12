@@ -8,7 +8,7 @@
                 {
                     "time": null,
                     "type": null,
-                    "subject": "",
+                    "subject": "ТЕРРИТОРИАЛЬНЫЙ БРЕЙДИНГ 5-8 лекция В 604 9-12 практика В 602",
                     "instructor": null,
                     "room": null
                 }
@@ -18,11 +18,11 @@
             "date": "2024-06-11",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "practice",
+                    "subject": "ТЕРРИТОРИАЛЬНЫЙ БРЕЙДИНГ 3-6 лекция 7-10 практика",
+                    "instructor": "доц. Заруднева А.Ю. В",
+                    "room": "601"
                 }
             ]
         },
@@ -30,11 +30,11 @@
             "date": "2024-06-13",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "practice",
+                    "subject": "СОЦИАЛЬНАЯ РЕКЛАМА 3-6 лекция 7-10 практика",
+                    "instructor": "доц.Очеретяная Д.В В",
+                    "room": "601"
                 }
             ]
         },
@@ -42,11 +42,11 @@
             "date": "2024-06-14",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "practice",
+                    "subject": "ТЕХНОЛОГИИ МЕРЧЕНДАЙЗИНГА 3-6 лекция 7-10 практика",
+                    "instructor": "доц. Заруднева А.Ю.",
+                    "room": "416"
                 }
             ]
         },
@@ -54,11 +54,11 @@
             "date": "2024-06-15",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-4",
+                    "type": "exam",
+                    "subject": "ТЕРРИТОРИАЛЬНЫЙ БРЕЙДИНГ 3-4 лекция 5-6 практика 13:40 ЭКЗАМЕН",
+                    "instructor": "доц. Заруднева А.Ю. В",
+                    "room": "601"
                 }
             ]
         },
@@ -66,11 +66,11 @@
             "date": "2024-06-17",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-4",
+                    "type": "practice",
+                    "subject": "ТЕХНОЛОГИИ МЕРЧЕНДАЙЗИНГА 3-4 лекция 5-8 практика",
+                    "instructor": "доц. Заруднева А.Ю. В",
+                    "room": "1201"
                 }
             ]
         },
@@ -78,11 +78,11 @@
             "date": "2024-06-18",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "practice",
+                    "subject": "ЭФФЕКТИВНОСТЬ РЕКЛАМНОЙ ДЕЯТЕЛЬНОСТИ 3-6 лекция 7-10 практика",
+                    "instructor": "доц.Очеретяная Д.В В",
+                    "room": "208"
                 }
             ]
         },
@@ -90,11 +90,11 @@
             "date": "2024-06-19",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "",
+                    "type": "exam",
+                    "subject": "ТЕХНОЛОГИИ МЕРЧЕНДАЙЗИНГА 13:40 ЭКЗАМЕН",
+                    "instructor": "доц. Заруднева А.Ю. В",
+                    "room": "601"
                 }
             ]
         },
@@ -102,11 +102,11 @@
             "date": "2024-06-20",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "practice",
+                    "subject": "ИМИДЖ В РЕКЛАМЕ И СВЯЗЯХ С ОБЩЕСТВЕННОСТЬЮ 3-6 лекция 7-10 практика",
+                    "instructor": "доц. Корженевская О.Н. В",
+                    "room": "501"
                 }
             ]
         },
@@ -114,11 +114,11 @@
             "date": "2024-06-21",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-4",
+                    "type": "test",
+                    "subject": "ЭФФЕКТИВНОСТЬ РЕКЛАМНОЙ ДЕЯТЕЛЬНОСТИ 3-4 практика 11:50 ЗАЧЕТ",
+                    "instructor": "доц.Очеретяная Д.В В",
+                    "room": "801"
                 }
             ]
         },
@@ -126,11 +126,11 @@
             "date": "2024-06-22",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-4",
+                    "type": "test",
+                    "subject": "ИМИДЖ В РЕКЛАМЕ И СВЯЗЯХ С ОБЩЕСТВЕННОСТЬЮ 3-4 практика 11:50 ЗАЧЕТ",
+                    "instructor": "доц. Корженевская О.Н. В",
+                    "room": "501"
                 }
             ]
         },
@@ -138,11 +138,11 @@
             "date": "2024-06-24",
             "lessons": [
                 {
-                    "time": null,
-                    "type": null,
-                    "subject": "",
-                    "instructor": null,
-                    "room": null
+                    "time": "3-6",
+                    "type": "test",
+                    "subject": "СОЦИАЛЬНАЯ РЕКЛАМА 3-6 практика 11:50 ЗАЧЕТ",
+                    "instructor": "доц.Очеретяная Д.В В",
+                    "room": "1002"
                 }
             ]
         }
